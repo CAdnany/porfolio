@@ -5,7 +5,7 @@
 Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | OSI Model | OWASP 10 | Penetration Testing  | Python | SIEM |  SQL | TCP/IP Model 
 
 ## Certifications
-- Certified in Cybersecurity, ISC2 (_October 2023_) | Google Cybersecurity Professional, Coursera (_August 2023_)
+Certified in Cybersecurity, ISC2 (_October 2023_) | Google Cybersecurity Professional, Coursera (_August 2023_)
 
 ## Work Experience
 **Junior Cybersecurity @ Self Learning (_January 2023 - Present_)**
