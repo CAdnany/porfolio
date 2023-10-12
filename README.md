@@ -1,4 +1,3 @@
-# Hi, I'm Adnan!
 
 <br/><a href="https://github.com/CAdnany">Content Creator</a>, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Junior Cybersecurity Professional</a>
 
