@@ -5,7 +5,9 @@
 Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | OSI Model | OWASP 10 | Penetration Testing  | Python | SIEM |  SQL | TCP/IP Model 
 
 ## Certifications
-Security+, COMPTIA January 2024
+## Certifications
+- Certified in Cybersecurity | ISC2 (_October 2023_)
+- Google Cybersecurity Professional | Coursera (_August 2023_)	
 
 Certified in Cybersecurity, ISC2 October 2023 | 
 
