@@ -7,7 +7,7 @@ Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Secu
 ## Certifications
 Certified in Cybersecurity, ISC2 (_October 2023_) | Google Cybersecurity Professional, Coursera (_August 2023_)
 
-## Work Experience
+## Experience
 **Junior Cybersecurity @ Cadnan CS (_January 2023 - Present_)**
 
 * Updated files and directory permissions using Linux.
