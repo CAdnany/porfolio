@@ -10,6 +10,9 @@
 **Junior Cybersecurity @ Cadnany CS (_January 2023 - Present_)**
 
 * Updated files and directory permissions using Linux.
+* Security+ | CompTIA (_Expected January 2024_)
+* Certified in Cybersecurity | ISC2 (_October 2024_)
+* Google Cybersecurity Professional | Coursera (_August 2023_)
 * Automate updating files and remove IP address permissions using Python.
 * Apply Filters to SQL Queries.
 * Brute force attacks using TCPdump.
