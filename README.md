@@ -1,9 +1,6 @@
 
 <br/><a href="https://github.com/CAdnany">Content Creator</a>, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Junior Cybersecurity Professional</a>
 
-#### Technical Skills | Languages/Tools/Frameworks/Concepts: 
-Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | OSI Model | OWASP 10 | Penetration Testing  | Python | SIEM |  SQL | TCP/IP Model 
-
 ## Certifications
 - Security+ | CompTIA (_Expected January 2024_)
 - Certified in Cybersecurity | ISC2 (_October 2024_)
@@ -20,7 +17,7 @@ Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Secu
 * Identify attack type, explain cause of website malfunction and produce incident report.
 * Analyze Wireshark TCP/HTTP log for network traffic
 
-## Cybersecurity Development Projects
+## Development Projects & Labs
 
 [File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 - Project description: The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure.
@@ -36,3 +33,6 @@ Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Secu
 
 [Wireshark](https://tinyurl.com/237ym7df)
 - A demonstration of how to read the provided TCP/HTTP log for network traffic using Wireshark. 
+
+#### Technical Skills | Languages/Tools/Frameworks/Concepts: 
+Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | OSI Model | OWASP 10 | Penetration Testing  | Python | SIEM |  SQL | TCP/IP Model 
