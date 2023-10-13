@@ -6,7 +6,9 @@ Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Secu
 
 ## Certifications
 Security+, COMPTIA January 2024
+
 Certified in Cybersecurity, ISC2 October 2023 | 
+
 Google Cybersecurity Professional, Coursera (_August 2023_)
 
 ## Experience
