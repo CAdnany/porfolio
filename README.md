@@ -9,13 +9,15 @@
 ## Experience
 **Junior Cybersecurity @ Cadnany CS (_January 2023 - Present_)**
 
-* Updated files and directory permissions using Linux.
-* Automate updating files and remove IP address permissions using Python.
-* Apply Filters to SQL Queries.
-* Brute force attacks using TCPdump.
-* Apply OS hardening techniques and document incident handling.
-* Identify attack type, explain cause of website malfunction and produce incident report.
-* Analyze Wireshark TCP/HTTP log for network traffic
+- Configuring and updating Microsoft Defender
+- Enabling and configuring Microsoft Firewall
+- Utilized tcpdump to capture and analyzed TCP traffic
+- Installed Wireshark on Ubuntu
+- Utilized Wireshark to analyze HTTP/S and RDP traffic
+- Configured groups and performed basic administrative tasks with Microsoft Active Directory
+- Used Sysmon and Event Logs to detect and analyze malicious activities on Windows Server including identifying DLL hijacking
+- Used Event Tracing for Windows (ETW) to identify unusual parent-child relationships and malicious .Net assembly
+- Utilized Get-WinEvent cmdiet to analyze Windows Event Logs
 
 ## Development Projects & Labs
 
