@@ -1,5 +1,5 @@
 
-<br/><a href="https://github.com/CAdnany">Content Creator</a>, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>
+<br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
 
 ## Certifications
 - Security+ | CompTIA (_Expected January 2024_)
