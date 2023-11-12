@@ -4,7 +4,7 @@
 ## Certifications
 - Security+ | CompTIA (_Expected January 2024_)
 - Certified in Cybersecurity | ISC2 (_October 2024_)
-- Google Cybersecurity Professional | Coursera (_August 2023_)
+- Cybersecurity Professional | Google (_August 2023_)
 
 ## Experience
 **Cybersecurity Student (_January 2023 - Present_)**
