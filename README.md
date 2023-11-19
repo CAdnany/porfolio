@@ -9,7 +9,7 @@
 ## Experience
 **Cybersecurity Student / Content Creator (_January 2023 - Present_)**
 
-Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sentinel, SQL, Sysmo, TCPdump, Wireshark
+Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sentinel, SQL, Sysmon, TCPdump, Wireshark
 
 - Configuring and updating Microsoft Defender
 - Enabling and configuring Microsoft Firewall
