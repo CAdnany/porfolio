@@ -39,4 +39,4 @@ Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sen
 - A demonstration of how to read the provided TCP/HTTP log for network traffic using Wireshark. 
 
 #### Technical Skills | Languages/Tools/Frameworks/Concepts: 
-Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | OSI Model | OWASP 10 | Penetration Testing  | Python | SIEM |  SQL | TCP/IP Model 
+Active Directory | AWS | Bash | CIA | IDS/IPS | Linux | Azure/365 | Network Security | NIST | Nmap | OSI Model | OWASP 10 | Penetration Testing  | Python | Sentinel | SIEM |  SQL | Sysmon | TCP/IP Model | TCPdump | Wireshark
