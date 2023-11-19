@@ -7,7 +7,9 @@
 - Cybersecurity Professional | Google (_August 2023_)
 
 ## Experience
-**Cybersecurity Student (_January 2023 - Present_)**
+**Cybersecurity Student / Content Creator (_January 2023 - Present_)**
+
+Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sentinel, SQL, Sysmo, TCPdump, Wireshark
 
 - Configuring and updating Microsoft Defender
 - Enabling and configuring Microsoft Firewall
