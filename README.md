@@ -2,9 +2,10 @@
 <br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
 
 ## Certifications
-- Security+ | CompTIA (_Expected January 2024_)
+- Security+ | CompTIA (January 2024, Expected)
+- Cybersecurity Analyst Professional | Microsoft (January 2024)
 - Certified in Cybersecurity | ISC2 (_October 2023_)
-- Cybersecurity Professional | Google (_August 2023_)
+- Cybersecurity Professional | Google (_August 2023_) 
 
 ## Experience
 **Cybersecurity Student / Content Creator (_January 2023 - Present_)**
