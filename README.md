@@ -7,6 +7,12 @@
 - Certified in Cybersecurity | ISC2 (_October 2023_)
 - Cybersecurity Professional | Google (_August 2023_) 
 
+## Education
+
+- Introduction to Computer Science and Programming Using Python    MITx | October, 2023
+- Cybersecurity for Critical Urban Infrastructure                  MITx | October, 2023
+- Construction Safety Management  British Columbia Institute of Technology | June, 2017
+
 ## Experience
 **Cybersecurity Student / Content Creator (_January 2023 - Present_)**
 
