@@ -39,10 +39,10 @@ Discover, Prioritize, Assess, Report, Remediate, Verify
 [Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
 Project description: Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.
-Implemented Vulnerability Management Function on sandbox networks:
-- Discover, Prioritize, Assess, Report, Remediate, Verify
-Conducted vulnerability assessments with Nessus; remediated vulnerabilities.
-Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
+  Implemented Vulnerability Management Function on sandbox networks:
+  - Discover, Prioritize, Assess, Report, Remediate, Verify
+  Conducted vulnerability assessments with Nessus; remediated vulnerabilities.
+  Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
 
   
 [File Permissions in Linux](https://tinyurl.com/bdfna5t7)
