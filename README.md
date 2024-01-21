@@ -38,8 +38,7 @@ Discover, Prioritize, Assess, Report, Remediate, Verify
 
 [Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
-Project description:
-- Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
+Project description:Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
 - Implemented Vulnerability Management Function on sandbox networks:
 Discover, Prioritize, Assess, Report, Remediate, Verify
 - Conducted vulnerability assessments with Nessus; remediated vulnerabilities
