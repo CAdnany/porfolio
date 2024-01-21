@@ -30,6 +30,9 @@ Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sen
 
 ## Development Projects & Labs
 
+[Nessus - How To Configure A Vulnerability Scan] (http://tinyurl.com/kk53mhna)
+- Project description: In this project, we learn how to use Nessus Essentials to perform vulnerability assessments. We performed both regular and credentialed scans, and then saw live how updating software can remove a lot of vulnerabilities.
+  
 [File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 - Project description: The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure.
 
