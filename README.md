@@ -16,8 +16,13 @@
 ## Experience
 **Cybersecurity Student / Content Creator (_January 2023 - Present_)**
 
-Platforms and Technology Used: Active Directory, Azure, Linux, Nmap, Python, Sentinel, SQL, Sysmon, TCPdump, Wireshark
-
+Platforms and Technology Used: Active Directory, Azure, Linux, Nessus, Nmap, Python, Sentinel, SQL, Sysmon, TCPdump, Wireshark
+Developed of content for, as well as performed the following tasks:
+- Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
+- Implemented Vulnerability Management Function on sandbox networks:
+Discover, Prioritize, Assess, Report, Remediate, Verify
+- Conducted vulnerability assessments with Nessus; remediated vulnerabilities
+- Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
 - Configuring and updating Microsoft Defender
 - Enabling and configuring Microsoft Firewall
 - Utilized tcpdump to capture and analyzed TCP traffic
