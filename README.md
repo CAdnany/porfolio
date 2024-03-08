@@ -2,7 +2,8 @@
 <br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
 
 ## Certifications
-- Security+ | CompTIA (January 2024, Expected)
+- Security+ | CompTIA (March 2024, Expected)
+- Splunk Core Certified Power User (March 2024, Expected)
 - Cybersecurity Analyst Professional | Microsoft (January 2024)
 - Certified in Cybersecurity | ISC2 (_October 2023_)
 - Cybersecurity Professional | Google (_August 2023_) 
