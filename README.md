@@ -3,7 +3,7 @@
 
 ## Certifications
 - Security+ | CompTIA (March 2024, Expected)
-- Splunk Core Certified Power User (March 2024, Expected)
+- Splunk Core Certified Power User | Splunk (March 2024, Expected)
 - Cybersecurity Analyst Professional | Microsoft (March 2024)
 - Certified in Cybersecurity | ISC2 (_October 2023_)
 - Cybersecurity Professional | Google (_August 2023_) 
