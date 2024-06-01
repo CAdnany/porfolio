@@ -2,15 +2,15 @@
 <br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
 
 ## Certifications
-- Security+ | CompTIA (March 2024, Expected)
-- Core Certified Power User | Splunk (March 2024, Expected)
-- Cybersecurity Analyst Professional | Microsoft (March 2024)
+- Security+ | CompTIA (June 2024, Expected)
+- Core Certified Power User | Splunk (June 2024, Expected)
+- Cybersecurity Analyst Professional | Microsoft (June 2024)
 - Certified in Cybersecurity | ISC2 (_October 2023_)
 - Cybersecurity Professional | Google (_August 2023_) 
 
 ## Education
 
-- Cybersecurity for Critical Urban Infrastructure                  MITx | October, 2023
+- Cybersecurity for Critical Urban Infrastructure                  MITx | June, 2023
 - Introduction to Computer Science and Programming Using Python    MITx | October, 2023
 - Construction Safety Management  British Columbia Institute of Technology | June, 2017
 
