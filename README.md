@@ -27,9 +27,11 @@ Objective: Update a file through Python algorithm. I created an algorithm to aut
 Objective: My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
 
 [Brute Force Attack using TCPDump](https://tinyurl.com/jb9a3nmz)
+
 Objective: This reading explains how to identify the brute force attack using tcpdump analysing DNS & HTTP Traffic Log.
 
 [Wireshark](https://tinyurl.com/237ym7df)
+
 Objective: A demonstration of how to read the provided TCP/HTTP log for network traffic using Wireshark. 
 
 Technical Skills | Languages/Tools/Frameworks/Concepts: 
