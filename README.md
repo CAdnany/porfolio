@@ -1,7 +1,7 @@
 
 <br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
 
-⭐ ## Featured Projects
+⭐ Featured Projects:
 
 [Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
