@@ -3,6 +3,11 @@
 
 ⭐ Featured Projects:
 
+<li><a href="https://github.com/kirkgacias/ad-scenario-simulation">Active Directory: Practical Scenario Simulation</a></li>
+<li><a href="https://github.com/kirkgacias/jira-ticket-lifecycle">Jira Service Management: Ticket Lifecycle and Resolution</a></li>
+<li><a href="https://github.com/kirkgacias/spiceworks-knowledge-base">Spiceworks: Knowledge Base Development for IT Troubleshooting</a></li>
+<li><a href="https://github.com/kirkgacias/osticket-ticket-resolution">osTicket: Implementing a Help Desk Ticketing System and Troubleshooting</a></li>
+
 [Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
 
