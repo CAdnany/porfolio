@@ -8,7 +8,7 @@
 <li><a href="https://github.com/kirkgacias/spiceworks-knowledge-base">Spiceworks: Knowledge Base Development for IT Troubleshooting</a></li>
 <li><a href="https://github.com/kirkgacias/osticket-ticket-resolution">osTicket: Implementing a Help Desk Ticketing System and Troubleshooting</a></li>
 
-[Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
+<li><a[Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
 
 👨‍💻 Development Projects & Labs:
