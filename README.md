@@ -3,20 +3,20 @@
 
 ⭐ Featured Projects:
 
-<li><a[Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
+[Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
 
 
 👨‍💻 Development Projects & Labs:
   
-<li><a[File Permissions in Linux](https://tinyurl.com/bdfna5t7)
+[File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 
-<li><a[Python Automation](https://tinyurl.com/3e2au934)
+[Python Automation](https://tinyurl.com/3e2au934)
 
-<li><a[Apply Filters to SQL Queries](https://tinyurl.com/29pyax4j)
+[Apply Filters to SQL Queries](https://tinyurl.com/29pyax4j)
 
-<li><a[Brute Force Attack using TCPDump](https://tinyurl.com/jb9a3nmz)
+[Brute Force Attack using TCPDump](https://tinyurl.com/jb9a3nmz)
 
-<li><a[Wireshark](https://tinyurl.com/237ym7df)
+[Wireshark](https://tinyurl.com/237ym7df)
  
 
 Technical Skills | Languages/Tools/Frameworks/Concepts: 
