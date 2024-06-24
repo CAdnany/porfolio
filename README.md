@@ -8,7 +8,8 @@
 
 👨‍💻 Development Projects & Labs:
   
-File Permissions in Linux](https://tinyurl.com/bdfna5t7)
+
+[File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 
 - Project description: The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure.
 
@@ -34,4 +35,4 @@ File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 
 [Wireshark](https://tinyurl.com/237ym7df)
 
-- Project description: Learn how to read the provided Wireshark TCP/HTTP log for network traffic
+- Project description: Learn how to read the provided Wireshark TCP/HTTP log for network traffic 
