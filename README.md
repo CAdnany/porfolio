@@ -12,6 +12,13 @@ Discover, Prioritize, Assess, Report, Remediate and Verify
 Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
 
 
+Project: Build an Active Directory (IAM) Home Lab using VirtualBox
+Platforms and Technology Used: Active Directory, VirtualBox, Microsoft Server, Windows 10
+
+Project: Set Up Elastic SIEM Home Lab
+Platforms and Technology Used: Elastic SIEM, Kali Linux, VMware Workstation
+
+
 👨‍💻 Development Projects & Labs:
 
 [File Permissions in Linux](https://tinyurl.com/bdfna5t7)
