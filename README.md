@@ -3,7 +3,7 @@
 
 ⭐ Featured Projects:
 
-[Nessus - How To Configure A Vulnerbility Scan](http://tinyurl.com/kk53mhna)
+[Nessus - How To Configure A Vulnerbility Scan](https://tinyurl.com/sj8kn9wz)
 
 Objective: Install and configure Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
 
